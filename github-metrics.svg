@@ -4013,8 +4013,8 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABhIhQROBFCIxsQcVQlFhcnGCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQADAAAAAAAAAAAAAAAAABEBAiH/2gAMAwEAAhEDEQA/AOic0QpMxtl6qMuyXDoCOrrWT2viernxOpdFqr8NLEmQ4wooLjZCBrB4J4vzjsih5NoK2nZdZ6rjKtaQ06Nj+jf8DEVm+dRIlUcdiFubEkKLjYcTrLYKBcfceck2wXEanQswQ6+00qlMyS5pSXW3WzrbKxcX4ItYg/nD5UeoJNulJT+Esm3tjMcgKn/KnahQllt+WXnJDilJF0NBuwAP7r2G5tidzrnWvCs649Ql09lbYUhhsGwFyL97X74G0vDaCnKuZarMVETK8b4UOpkv3DfrYeRP2HG17d8LM50+lOU+NHgxwjouC7zQvtoFybkngf7gDITYjwa8psnU0AyknhOs7YZUtw6n7gHcjfBDXLD6abGgU2O71IzUpbhdSPQlsG1wd+T2wXX8tyKpUFPto1jdN/X6lH2IwJTGksVNplsWb8Qjy/3CfYnG7paQ0kIQgBIwH//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EACwQAAIBAwIEBAYDAAAAAAAAAAECAwQFEQAhBhITQQciMVEUI2GBkaFCUrH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQACAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADETEEEhMh/9oADAMBAAIRAxEAPwB5vBaWdBkhOnvgfU6wV443rrbVV9HZrLWXGOlOGmYpFHn+eMnJ/HbSPcWqIQSIImTYZOcnQfxs08F4uEEbXESzr5oaWZIkTL55wTvk7/nXEHySDJxqPVz21EngviOPia1SVsCSwvFI0U0MwAeORBkj9jV5pCD5fTR74P8ANLSVs46wo5CI16xDyPIPI7kj17DP01u6oDq7Dt20ewHyaV1ebECZW8+I3Xt/w6Uvw1RKp5j1Cxj27EAb/wCaCuJ4obpLUESzUsqDZpZmRJV7/Mzvv/c+uqTVczVkrFt+lz/fGp9ZUsHp4yqNynZmXLevvpoaVIxGSUIBqd/h9dLlRcPPRR19xpY4WLxtAR01BxsAQQR7nHudVHunHMrFqPjOk6Pbr0Y5/vyow/es1c55IqKeZGYSLDscnbbUK0VU09KzyOSxc76qyIvzELcZNT//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAtEAABAwIFAgQGAwAAAAAAAAABAgMEBREABhIhQROBFCIxsQcVQlFhcnGCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQADAAAAAAAAAAAAAAAAABEBAiH/2gAMAwEAAhEDEQA/AOic0QpMxtl6qMuyXDoCOrrWT2viernxOpdFqr8NLEmQ4wooLjZCBrB4J4vzjsih5NoK2nZdZ6rjKtaQ06Nj+jf8DEVm+dRIlUcdiFubEkKLjYcTrLYKBcfceck2wXEanQswQ6+00qlMyS5pSXW3WzrbKxcX4ItYg/nD5UeoJNulJT+Esm3tjMcgKn/KnahQllt+WXnJDilJF0NBuwAP7r2G5tidzrnWvCs649Ql09lbYUhhsGwFyL97X74G0vDaCnKuZarMVETK8b4UOpkv3DfrYeRP2HG17d8LM50+lOU+NHgxwjouC7zQvtoFybkngf7gDITYjwa8psnU0AyknhOs7YZUtw6n7gHcjfBDXLD6abGgU2O71IzUpbhdSPQlsG1wd+T2wXX8tyKpUFPto1jdN/X6lH2IwJTGksVNplsWb8Qjy/3CfYnG7paQ0kIQgBIwH//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -4544,7 +4544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2024, 20:43:52 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2024, 21:46:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
